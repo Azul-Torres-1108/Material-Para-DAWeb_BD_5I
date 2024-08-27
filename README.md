@@ -23,3 +23,7 @@ Tenemos link de referencia mas documentos Agosto 2024
 - https://coddy.tech/
 
 - ![image](https://github.com/user-attachments/assets/f95c76af-0901-405c-a137-f730ee2a4858)
+
+## Diseño web con Figma 
+- https://www.figma.com/es-la/
+- ![image](https://github.com/user-attachments/assets/9c33c83c-b548-4385-ab2c-bf020fd297d8)
